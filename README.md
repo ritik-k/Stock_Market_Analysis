@@ -1,4 +1,4 @@
-# Decline in stock value of BEACH companies due to the coronavirus pandemic (COVID-19)
+# Decline in stock value of BEACH companies due to COVID-19
 
 ### Why analyse BEACH stocks?
 ### The ‘BEACH’ Stocks (Booking, Entertainment and Live Events, Airlines, Cruise and Casino, Hotel and resort) have been hit the hardest due to the economic downturn caused by COVID-19. The COVID-19 outbreak has turned the econmoy upside down, the BEACH stocks have seen more tham $332B in value evaporate during the months of Feb-Mar 2020. In this project we look at the the steep losses across companies in different sectors. The stocks are considered from 1 Jan 2020 - 31 April 2020. Analysis is done primarily on values from 19 February 2020 - 23 March 2020. Data has been accessed from [Yahoo Finance](https://in.finance.yahoo.com/) using pandas_datareader library.
