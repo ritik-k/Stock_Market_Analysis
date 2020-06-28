@@ -55,7 +55,7 @@
 
 ### In our own backyard - SENSEX AND NIFTY
 ### The plot is created using a dropdown for better visualisation.
-![Sensex and nifty](https://raw.githubusercontent.com/ritik-k/Stock_Market_Analysis/master/gifs/india.gif)
+![Sensex and nifty](https://raw.githubusercontent.com/ritik-k/Stock_Market_Analysis/master/gifs/new-i.gif)
 #### Benchmark indices Sensex and Nifty which were going strong despite weak GDP growth since the beginning of this year fell victim to the coronavirus outbreak across the world. Sensex witnessed it's second-biggest fall (in terms of points) in a single day.
 ### [Static Image](https://raw.githubusercontent.com/ritik-k/Stock_Market_Analysis/master/images/india.png)
 
